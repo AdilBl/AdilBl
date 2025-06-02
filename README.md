@@ -25,19 +25,6 @@
 
 ---
 
-## 📈 Statistiques GitHub
-
-![Statistiques GitHub d'AdilBl](https://github-readme-stats.vercel.app/api?username=AdilBl&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=AdilBl&theme=tokyonight&hide_border=true&layout=compact)
-
----
-
-## 🏆 Trophées GitHub
-
-![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=AdilBl&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
----
-
 ## 🌐 Me contacter
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/adil-belacheheb)
